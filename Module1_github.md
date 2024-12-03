@@ -1,5 +1,5 @@
 # Module 1
-git and gitHub
+Git and GitHub
 
 GitHub is a distributed version control system that is designed to track changes over multiple users and versions,
 and allows a team to merge individual efforts and edits to current code.
