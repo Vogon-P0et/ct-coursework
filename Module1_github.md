@@ -46,3 +46,9 @@ git commit -m "Added a new feature"
 
 Push changes to GitHub:
 git push origin main
+
+### Pulling from GitHub
+to pull all changes to files on your local drive use
+git pull
+to pull all files, folders, and changes within files, use
+git pull origin main
